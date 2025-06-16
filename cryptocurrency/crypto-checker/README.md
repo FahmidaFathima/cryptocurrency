@@ -1,6 +1,6 @@
 # 💰 Crypto Checker
 
-**Crypto Checker** is a cross-platform desktop application built in **Java** to track real-time cryptocurrency data. This was my **first real-world project** after learning Java and Maven, created to understand how to work with APIs, UI, and financial data.
+**Crypto Checker** is a cross-platform desktop application built in Java to track real-time cryptocurrency data. This was my first real-world project after learning Java and Maven, created to understand how to work with APIs, UI, and financial data.
 
 ---
 
@@ -26,18 +26,17 @@
  📦 Setup Instructions
 
 ```bash
-# Clone the repository
+ Clone the repository
 git clone https://github.com/FahmidaFathima/crypto_checker.git
 cd crypto_checker
 
-# Build the project
+ Build the project
 mvn clean install
 
-# Run the project (replace MainClass with your actual entry point)
+ Run the project (replace MainClass with your actual entry point)
 mvn exec:java -Dexec.mainClass="com.fahmida.crypto.Main"
 
-
-📚 Technologies Used
+ 📚 Technologies Used
 Java 8
 
 Maven
